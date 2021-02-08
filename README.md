@@ -1,16 +1,16 @@
-### Hi there 👋
+### About
+Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are he/him. I like to work on Minecraft clients and Discord bots. If you need to contact me hit up my discord ChiquitaV2#3814. My main goal for 2021 is to learn V and Go.
 
-<!--
-**ChiquitaV2/chiquitav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Project
+* Quatum: Private custom base 1.16 fabric client.
+* BananaBot: Discord bot for my servers.
+* MineClient: Anarchy highway client.
 
-Here are some ideas to get you started:
+### Software
+* IDE: IntelliJ IDEA and Visual Studio Code.
+* OS: MacOS and Ubuntu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiquitav2&count_private=true&show_icons=true&hide=issues&theme=material-palenight)
+
+[![discord](https://img.shields.io/badge/Discord-h8EQyuYTK7-9080c2)](https://discord.gg/h8EQyuYTK7)

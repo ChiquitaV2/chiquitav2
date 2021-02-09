@@ -14,3 +14,4 @@ Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are he/him.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiquitav2&count_private=true&show_icons=true&hide=issues&theme=material-palenight)
 
 [![discord](https://img.shields.io/badge/Discord-h8EQyuYTK7-9080c2)](https://discord.gg/h8EQyuYTK7)
+![](https://komarev.com/ghpvc/?username=chiquitav2&color=9080c2)

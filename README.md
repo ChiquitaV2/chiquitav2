@@ -4,7 +4,6 @@ Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are he/him.
 ### Current Project
 * Quantum: Private custom base 1.16 fabric client.
 * BananaBot: Discord bot for my servers.
-* MineClient: Anarchy highway client.
 
 ### Software
 * IDE: IntelliJ IDEA and Visual Studio Code.

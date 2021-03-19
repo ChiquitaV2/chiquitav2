@@ -4,7 +4,7 @@ Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are he/him.
 ### Current Project
 * Quantum: Private custom 1.16 fabric client.
 * BananaBot: Discord bot for my servers.
-* FabricUtitly: An organization and discord server for utitly mod devs.
+* FabricUtility: An organization and discord server for utility mod developers.
 
 ### Software
 * IDE: IntelliJ IDEA and Visual Studio Code.

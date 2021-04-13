@@ -1,5 +1,5 @@
 ### About
-Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are he/him. I like to work on Minecraft clients and Discord bots. If you need to contact me hit up my discord ChiquitaV2#3814. My main goal for 2021 is to learn V and Go.
+Hey, I'm ChiquitaV2 a self taught java and js developer. My pronouns are she/her. I like to work on Minecraft clients and Discord bots. If you need to contact me hit up my discord ChiquitaV2#3814. My main goal for 2021 is to learn V and Go.
 
 ### Current Project
 * Quantum: Private custom 1.16 fabric client.

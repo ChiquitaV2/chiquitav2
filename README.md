@@ -17,3 +17,4 @@ Hey, I'm ChiquitaV2 a self taught developer. My pronouns are he/him. I like to w
 
 [![discord](https://img.shields.io/badge/Discord-h8EQyuYTK7-9080c2)](https://discord.gg/h8EQyuYTK7)
 ![](https://komarev.com/ghpvc/?username=chiquitav2&color=9080c2)
+![](https://img.shields.io/badge/Based-Very-9080c2)

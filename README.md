@@ -1,9 +1,9 @@
 ### About
-Hey, I'm ChiquitaV2 a self taught developer. My pronouns are he/him. I like to work on Minecraft clients, Discord bots, and anything else that peeks my interests. If you need to contact me hit up my discord ChiquitaV2#3814, but I am currently taking a break from Discord.
+Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronouns are he/her. I like to work on Minecraft clients, Discord bots, and anything else that peeks my interests. If you need to contact me hit up my discord ChiquitaV2#3814, but I am currently taking a break from Discord, so [Twitter](https://twitter.com/Chiquita_V2) dms are a better way of reaching me.
 
 ### Current Project
 * [Qubit](https://github.com/QuantumClient/Qubit): Public 1.16 fabric client
-* Quantum: Private 1.16 fabric client.
+* [Quantum](https://quantumclient.org): Private 1.16 fabric client.
 * [Energy](https://github.com/QuantumClient/Energy): A java event system for Quantum.
 * BananaBot: Discord bot for my servers.
 * [UtilityMods](https://github.com/UtilityMods): An organization and discord server for utility mod developers.

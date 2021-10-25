@@ -10,7 +10,7 @@ Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronou
 
 ### 2021 Goals
 * [x] Learn go
-* [ ] Learn V
+* [x] Learn V
 
 ### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiquitav2&count_private=true&show_icons=true&hide=issues&theme=material-palenight)

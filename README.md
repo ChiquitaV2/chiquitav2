@@ -12,7 +12,7 @@ Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronou
 
 [Quantum]: https://quantumclient.org
 
-  <sup>*: Not working on but isn't dead </sup>
+  <sup>* Not working on but isn't dead </sup>
 
 <details>
 <summary><strong>Past projects</strong></summary>

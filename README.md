@@ -25,7 +25,7 @@ Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronou
 
 ---
 
-### 2021 Goals
+### 2022 Goals
 * [ ] Use graphql
 
 ---

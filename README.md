@@ -1,17 +1,26 @@
 ### About
-Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronouns are he/her. I like to work on Minecraft clients, Discord bots, and anything else that peeks my interests. If you need to contact me hit up my discord ChiquitaV2#3814, but I am currently taking a break from Discord, so [Twitter](https://twitter.com/Chiquita_V2) dms are a better way of reaching me. Low key have stopped using github for vsc.
+Hey, I'm [ChiquitaV2](https://chiquitav2.com), a self-taught developer. I am currently a first-year history and computer science major focusing on my academics. I used to work on Minecraft clients, Discord bots, and full-stack web development. If you want to get in contact with me you can add me on Discord: ChiquitaV2 or dm me on [X](https://x.com/Chiquita_V2). I have not been actively pushing to GitHub.
 
+### Favorite frameworks, languages, and services
+* Kotlin
+* GO
+* NGNIX
+* Nuxt
+* SvelteKit
+* tailwindcss
+  
 ### Current Project
-* Secret: A distributed cloud native app. 
-* [Quantum](https://quantumclient.org): Something new and special
+* Secret: A distributed cloud-native app. 
+* [Quantum](quantum)
 * [UtilityMods](https://github.com/UtilityMods): An organization and discord server for utility mod developers.
 
-[Quantum]: https://quantumclient.org
+[Quantum]: https://quantumdev.org
 
 <details>
 <summary><strong>Past projects</strong></summary>
- 
-  * [Energy](https://github.com/QuantumClient/Energy): A java event system for Quantum.
+
+* [Quantum Client](https://github.com/chiquitav2/quantum): Once the most groundbreaking and innovative Minecraft clients for 1.16+ servers. It was active development for over two years with over two thousand commits, ci/cd, and a private user interaction backend
+* [Energy](https://github.com/QuantumClient/Energy): A java event system for Quantum.
 * [Qubit](https://github.com/QuantumClient/Qubit)*: Public 1.17 fabric client
 * [MacHack](https://github.com/chiquitav2/machack): Bleach Hack that would work on mac, back when it did.
 * BananaBot: Discord bot for my servers.
@@ -20,9 +29,6 @@ Hey, I'm [ChiquitaV2](https://chiquitav2.com) a self taught developer. My pronou
 </details>
 
 ---
-
-### 2023 Goals
-* [ ] Grow my brand
 
 ---
 
